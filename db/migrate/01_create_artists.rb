@@ -1,7 +1,8 @@
 class CreateArtists < ActiveRecord::Migration[5.2]
-  def up
+  def change
   end
- 
+end
+
   def down
   end
 end
